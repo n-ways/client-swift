@@ -1,0 +1,19 @@
+N-Ways Maps SDK
+Copyright 2026 N-WAYS LIMITED
+
+This package (NWaysClient, the N-Ways Maps Platform API client) is licensed under
+the Apache License, Version 2.0 (see LICENSE).
+
+Third-party software
+--------------------
+
+This package has no dependencies and bundles no third-party code.
+
+Map data
+--------
+
+The client is software only. The maps and data it returns come from N-Ways and are
+built on OpenStreetMap: © OpenStreetMap contributors, available under the Open
+Database License (ODbL) 1.0, https://www.openstreetmap.org/copyright. They are
+not covered by the Apache License. Credit "N-Ways · © OpenStreetMap contributors"
+wherever the data is shown.
